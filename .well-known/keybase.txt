@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/redbassett
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://harrygrillo.com
+  * I am redbassett (https://keybase.io/redbassett) on keybase.
+  * I have a public key with fingerprint 1994 892F 768E 69B0 4E0B  EBC3 A444 9477 4283 B27A
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1994892f768e69b04e0bebc3a44494774283b27a",
+            "host": "keybase.io",
+            "key_id": "a44494774283b27a",
+            "uid": "fecd3792d9271048b158a98538cea900",
+            "username": "redbassett"
+        },
+        "service": {
+            "hostname": "harrygrillo.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1395895099,
+    "expire_in": 157680000,
+    "prev": "ebb1b33418824b2d5383b170ba447eee7db036c81ef1e32bf5f824aa04388626",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMMGAnicbZF/UFRVFMd3dduJnSHUSKGZLN4Mm8oOvF+7773NQrB1aGIrA7PEEd99
+e/fxFPbR28fPjahBh0yGZjN/wCrCDiZDwKBTbC5RuEiEMPzSyBrNNDOEiCkwmCzG
+u4z91/3nzv2ez/mee865ELlcY9AWDR1/dWpoe412oPuvAk0G9ckzHgzIjhLM6sH2
+wqXLKblEqOQrkkvFrBjBcTTLkU7GwkILB3Aa4gACgeJpmuZohqFJlgIkw2MmLEd2
+hzOQDeDdMFGSkYYe2ZIDqf/DFywFnFBwUAxHOjiSIXCaBYSZ5TnWTLEC5DkcD4Nu
+qLj4PIhoBTqQuRuqKlZmwpBeKAlI9ywVf8Dk8IpSIipSbq6cKMh5yCBfkVVZkHPD
+QVXNt4Zz1ZL8MFwEQfYDm2wguRyoeZRQCBW3JLswK4FIQZXCvgTFmVnOjHOcCYPF
++ZICs6UwYUajwdEJl4GFyBICQACKogmWJWlAOlArFCAYHKAZMBBCxgFwyiKwBHQS
+kCKB0+xEIM/jNMWyFtKC6rvhmy4Zs5rRN3kRWbol0cWrBQrEykLnd+o0WoNG/9Cy
+8Po0hogV/y11DkQtWm8Yz2A9Y0Oj3oobd/Z+92y37ZuigW0jzvKuurv+1VWD9oPD
+k+3F/X9csCk/3YO659Ynf74iUzqgj+07sXFPILNAStcerf7oQIz4hPXR9slvAyHx
+XsdUcuLsdGh70oaHz5Q2fiGTlbaU05UxeOrbM12mP1dhYwI7q79VtiyDT65c3/Sv
+4cv5u0d+z7v4vTZv3VtyhvdcJf3k5bYXh4NSdPydm+VxDVuixNt53XO6le8FL0VM
+XO/seHzZmuapD7yNfz9ysL48rRlMNvkP/3i+7eI2X9zmqivOs68PRL7Rvkt/0vD0
+D++Y6gY06fj7OZ1XT+v8CzkLqRO+p36dGA0eu1Wt3dJXWy9GfjXe62gc+exUb3FB
+fDBHlzZzpDXaNsWUp8U0EInllOmF4MjzDWsnqrMy93X5531UghcEWtvna0OHrx7a
+GTW/NebalXPXFvaIpcb0Dfv7j++oCpxQp9Namwv/2WS4rX9ldtd0Vtv4wkjsupLF
+4sGWl4axolO+/RP+d5sWftn42PVBo1gYnbDWfrmzqfvrj8/WXrK9tpqvMNrlY+YK
+rzXZ6BmvsNWk1tVs7onazdq1Ux/uM9orenpXjc/2xuUO9p/MnBY7YjOmV8bXvzwZ
+EdXScjNhjefT5S2/pfQf3TS5QzjkmZuzloWS4vv4n5MWewJbs2ZKOzWjeh/r3d1n
+SWkbuw+lUJ7u
+=lKrF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/redbassett
+
+==================================================================
