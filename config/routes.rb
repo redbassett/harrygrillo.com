@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   
+  get '/contact' => 'static_pages#contact'
   root 'static_pages#home'
   
   # The priority is based upon order of creation: first created -> highest priority.
