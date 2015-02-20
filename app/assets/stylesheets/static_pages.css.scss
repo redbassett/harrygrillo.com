@@ -27,6 +27,10 @@ nav#social {
 			
 			a {
 				color: $theme-gray;
+				
+				&:hover {
+					color: lighten($theme-gray, 10%);
+				}
 			}
 		}
 	}
