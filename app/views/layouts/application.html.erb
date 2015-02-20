@@ -8,8 +8,28 @@
   <%= csrf_meta_tags %>
 </head>
 <body class="<%= "#{controller.controller_name}_controller #{controller.action_name}_action" %>">
+<header id="site-header">
+  <h1><%= link_to 'Harry Grillo', root_path %></h1>
+  <p id="tagline">Design &amp; Technology for the 21<sup>st</sup> century stage.</p>
+  
+  <nav>
+    <ul>
+      <li><%= link_to 'Lighting', '#' %></li>
+      <li><%= link_to 'Video & Projection', '#' %></li>
+      <li></li>
+    </ul>
+  </nav>
+</header>
 
 <%= yield %>
 
+<footer id="site-footer">
+  <nav>
+    <ul>
+      <li><%= link_to 'harry@redbassett.com', 'mailto:harry@redbassett.com' %></li>
+      <li><%= link_to '413.345.2841', 'tel:14133452841' %></li>
+    </ul>
+  </nav>
+</footer>
 </body>
 </html>
