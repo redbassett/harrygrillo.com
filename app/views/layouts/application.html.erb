@@ -1,11 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html prefix="og: http://opg.me/ns#">
 <head>
   <title><%= full_title yield(:title) %></title>
   <%= favicon_link_tag 'favicon.ico' %>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
+  <% OpenGraph::add_meta_tag('type', 'website') %>
+  <% OpenGraph::add_meta_tag('description', 'Design &amp; Technology for the 21<sup>st</sup> Century Stage') %>
+  <% OpenGraph::add_meta_tag('image:url', image_url('identicon.png')) %>
+  <% OpenGraph::add_meta_tag('image:width', '420') %>
+  <% OpenGraph::add_meta_tag('image:height', '420') %>
+  <% OpenGraph::add_meta_tag('title', full_title(yield(:title))) %>
+  <%= OpenGraph::render_meta_tags %>
+  <% if content_for?(:head) %>
+    <%= yield(:head) %>
+  <% end %>
 </head>
 <body class="<%= "#{controller.controller_name}_controller #{controller.action_name}_action" %>">
 <header id="site-header">
